@@ -84,13 +84,13 @@ img {
 /* footer elements */
 .footer-container {
     background-color: #222222;
-    height: 150px;
+    height: 100px;
 }
 
 .button2 {
     align-items: center;
     justify-content: center ;
-    margin: 5px 8px;
+    margin: 5px 8px 0 8px;
     border: none;
     background-color: #222222;
     padding: 10px;
@@ -109,6 +109,7 @@ img {
 .icon2 {
     width: 70px;
     height: 40px;
+    margin-left: 25px;
 }
 
 .icon2:hover {
@@ -119,7 +120,7 @@ img {
 .icon3 {
     width: 40px;
     height: 40px;
-    margin-left: 475px;
+    margin-left: 365px;
 }
 
 .icon3:hover {
@@ -168,5 +169,90 @@ img {
 
 .icon7:hover {
     background-color: darkgray;
+    cursor: pointer;
+}
+
+.icon8 {
+    width: 40px;
+    height: 40px;
+    margin-left: 60px;
+}
+
+.icon8:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.icon9 {
+    width: 40px;
+    height: 40px;
+    margin-left: 60px;
+}
+
+.icon9:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.top {
+    margin-left: 30px;
+}
+
+.icon10 {
+    width: 40px;
+    height: 40px;
+    margin-left: 60px;
+}
+
+.icon10:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.button3 {
+    margin: 0px 8px 5px 8px;
+    border: none;
+    background-color: #222222;
+    padding-left: 10px;
+    color: white;
+}
+
+.mini-title {
+    margin-left: 60px;
+}
+
+.mini-title1 {
+    margin-left: 405px;
+}
+
+.mini-title2 {
+    margin-left: 50px;
+}
+
+.mini-title3 {
+    margin-left: 45px;
+}
+
+.mini-title4 {
+    margin-left: 63px;
+}
+
+.mini-title5 {
+    margin-left: 71px;
+}
+
+.absolute {
+    position: absolute;
+    right: 0;
+    bottom: -80px;
+    background-color: gray;
+    color: red;
+    border: solid gray 40px;
+}
+
+.absolute:hover {
+    background-color: darkred;
+    color: white;
+    border: solid darkred 40px;
     cursor: pointer;
 }
