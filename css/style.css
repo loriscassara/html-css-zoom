@@ -80,3 +80,93 @@ img {
     border: solid darkgrey 4px;
     height: 30px;
 }
+
+/* footer elements */
+.footer-container {
+    background-color: #222222;
+    height: 150px;
+}
+
+.button2 {
+    align-items: center;
+    justify-content: center ;
+    margin: 5px 8px;
+    border: none;
+    background-color: #222222;
+    padding: 10px;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+}
+
+.icon:hover {
+    background-color: darkgrey;
+    cursor: pointer;
+}
+
+.icon2 {
+    width: 70px;
+    height: 40px;
+}
+
+.icon2:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.icon3 {
+    width: 40px;
+    height: 40px;
+    margin-left: 475px;
+}
+
+.icon3:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.icon4 {
+    width: 40px;
+    height: 40px;
+    margin-left: 60px;
+}
+
+.icon4:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.icon5 {
+    width: 40px;
+    height: 40px;
+    margin-left: 60px;
+}
+
+.icon5:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.icon6 {
+    width: 40px;
+    height: 40px;
+    margin-left: 60px;
+}
+
+.icon6:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.icon7 {
+    width: 40px;
+    height: 40px;
+    margin-left: 60px;
+}
+
+.icon7:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
